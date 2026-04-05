@@ -1,0 +1,254 @@
+{
+    "users": [
+        {
+            "username": "raghav",
+            "password": "1234",
+            "history": [
+                {
+                    "text": "I want to die",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.7176040596375121,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.9343131472967869,
+                    "risk_level": "CRITICAL"
+                }
+            ]
+        },
+        {
+            "username": "RaghavA",
+            "password": "RaghavA",
+            "history": [
+                {
+                    "text": "hii",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5011414923405675,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9343141431061683,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "yo",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5011414923405675,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.813224940510181,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "heyyyy",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5011414923405675,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9491200845561016,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "hiiii i want to suicide",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.610669579285456,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.9875183958440092,
+                    "risk_level": "CRITICAL"
+                },
+                {
+                    "text": "fuck youu",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.8422760755944564,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.6333031893085208,
+                    "risk_level": "CRITICAL"
+                }
+            ]
+        },
+        {
+            "username": "Raghav123",
+            "password": "",
+            "history": []
+        },
+        {
+            "username": "sneh123",
+            "password": "sneh123",
+            "history": [
+                {
+                    "text": "how are you?",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5011414923405675,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9491200845561016,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i am soo happy todayyyyy",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.6445230611535213,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9147857147662138,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "raghav is such a good boy",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.608842135035767,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9743623532164333,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i had a very bad day today",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.6595630674794605,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.6579061575244729,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i wantr to kill my self",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5388826043609477,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.8676512797826126,
+                    "risk_level": "CRITICAL"
+                },
+                {
+                    "text": "what new makeup should i buy?",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5537946505056646,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.965064054144957,
+                    "risk_level": "MODERATE"
+                }
+            ]
+        },
+        {
+            "username": "raghav1234",
+            "password": "raghav1234",
+            "history": [
+                {
+                    "text": "i had a great day today and feel really happy",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.8329801644209563,
+                    "mental_state": "Depression",
+                    "mental_confidence": 0.44163232295301874,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i am very happy today",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.6322515316858249,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.7813333551011572,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "things are not so good but i am managing it somehow",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.6247228942245879,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9384763689749613,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "you are so stupid and annoying",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.6787687848224978,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9211072617869335,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i want to kill myself",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.6280741641527323,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.9493804870278064,
+                    "risk_level": "CRITICAL"
+                },
+                {
+                    "text": "I feel really lonely and lost",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.6546900415289061,
+                    "mental_state": "Depression",
+                    "mental_confidence": 0.5408556383760722,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "I feel empty and disconnected from everything.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.511788776430222,
+                    "mental_state": "Depression",
+                    "mental_confidence": 0.6106774695193544,
+                    "risk_level": "HIGH"
+                },
+                {
+                    "text": "Everything is frustrating and irritating.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5989991512285663,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9179735633626835,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "This is the worst, I\u2019m so angry right now.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5498600478606344,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.7824738691315568,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "I can\u2019t stand anyone anymore.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5166660992613648,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.3382690689979023,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "I enjoyed spending time with my friends.",
+                    "toxicity": 0,
+                    "toxicity_confidence": 0.5287008091309907,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9511152345699185,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "Life is going well, I\u2019m grateful for everything.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5747047297414233,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.5186546261465206,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "I hate everyone around me.",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.6377631799457593,
+                    "mental_state": "Depression",
+                    "mental_confidence": 0.4519821122574711,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "everything is frustating and irritating",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5989991512285663,
+                    "mental_state": "Normal",
+                    "mental_confidence": 0.9042081954295693,
+                    "risk_level": "MODERATE"
+                },
+                {
+                    "text": "i will kill everyone on this planet",
+                    "toxicity": 1,
+                    "toxicity_confidence": 0.5914919286272509,
+                    "mental_state": "Suicidal",
+                    "mental_confidence": 0.7860891220022594,
+                    "risk_level": "CRITICAL"
+                }
+            ]
+        },
+        {
+            "username": "fff",
+            "password": "fff",
+            "history": []
+        }
+    ]
+}
