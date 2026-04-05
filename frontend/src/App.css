@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: radial-gradient(circle at top, #1f1f3a, #0a0a0f);
+  color: white;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2.5rem;
+  background: linear-gradient(90deg, #00e6e6, #cc66ff, #ff4d4d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 20px;
+}
+
+.chat-box {
+  height: 420px;
+  overflow-y: auto;
+  padding: 15px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.message {
+  display: flex;
+  margin: 10px 0;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.bot {
+  justify-content: flex-start;
+}
+
+.user-text {
+  background: linear-gradient(135deg, #00e6e6, #00b3b3);
+  color: black;
+  padding: 12px;
+  border-radius: 15px;
+  max-width: 70%;
+  box-shadow: 0 0 10px rgba(0,255,255,0.6);
+}
+
+.card {
+  background: rgba(255,255,255,0.06);
+  padding: 15px;
+  border-radius: 15px;
+  text-align: left;
+  max-width: 75%;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.1);
+
+  box-shadow: 0 0 15px rgba(204,102,255,0.2);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 25px rgba(204,102,255,0.6);
+}
+
+.bar {
+  height: 10px;
+  background: #222;
+  border-radius: 10px;
+  margin: 6px 0 12px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #ff4d4d, #ff944d);
+  box-shadow: 0 0 10px rgba(255,77,77,0.7);
+}
+
+.fill.mental {
+  background: linear-gradient(90deg, #00e6e6, #4da6ff);
+  box-shadow: 0 0 10px rgba(0,230,230,0.7);
+}
+
+.risk {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 5px;
+  box-shadow: 0 0 10px rgba(255,255,255,0.2);
+}
+
+.advice {
+  margin-top: 10px;
+  font-style: italic;
+  color: #ddd;
+}
+
+.input-box {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 60%;
+  padding: 12px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background: #111;
+  color: white;
+  box-shadow: 0 0 10px rgba(0,255,255,0.3);
+}
+
+input:focus {
+  box-shadow: 0 0 15px rgba(0,255,255,0.8);
+}
+
+button {
+  margin-left: 10px;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 25px;
+  background: linear-gradient(135deg, #00e6e6, #cc66ff);
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 10px rgba(0,255,255,0.5);
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px rgba(204,102,255,0.8);
+}
+
+.stats {
+  margin-top: 20px;
+  background: rgba(255,255,255,0.05);
+  padding: 15px;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 15px rgba(0,255,255,0.2);
+}
+
+.charts {
+  margin-top: 20px;
+}
+
+.chart-container {
+  background: rgba(255,255,255,0.05);
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
